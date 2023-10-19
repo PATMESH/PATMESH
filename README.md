@@ -29,7 +29,7 @@
 
 <h3 align="center">Languages and Tools:</h3>
 
-<p align="center" style="display: flex; justify-content: space-between;width:100%">
+<div align="center" style="display: flex; justify-content: space-between;width:100%">
   <a href="https://getbootstrap.com" target="blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
   <a href="https://www.cprogramming.com/" target="blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/cpp/" target="blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
@@ -48,7 +48,7 @@
   <a href="https://www.python.org" target="blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
   <a href="https://reactjs.org/" target="blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
   <a href="https://spring.io/" target="blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a>
-</p>
+</div>
 
 
 <p align="center">
