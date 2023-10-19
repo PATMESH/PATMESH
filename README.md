@@ -5,9 +5,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=patmesh&label=Profile%20views&color=0e75b6&style=flat" alt="patmesh" /> </p>
 
-<p align="cemter"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🌱 I’m currently learning **Networking**
+<p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="center">
+  - 🌱 I’m currently learning **Networking**
 
 - 👨‍💻 All of my projects are available at [https://patmesh.netlify.app/](https://patmesh.netlify.app/)
 
@@ -16,6 +16,7 @@
 - 📫 How to reach me **patmeshpatmesh2003@gmail.com**
 
 - ⚡ Fun fact **I think Quiet coders code with precision.**
+</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
