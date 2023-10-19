@@ -3,9 +3,9 @@
 <img src="https://media.licdn.com/dms/image/D5616AQEho9qpkivPYw/profile-displaybackgroundimage-shrink_350_1400/0/1693790345644?e=1701907200&v=beta&t=D__9MQt_THAeV5ThZ7v7aKdUUdKjc8p00J_4pzgVvNI" alt="Background Image">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=patmesh&label=Profile%20views&color=0e75b6&style=flat" alt="patmesh" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=patmesh&label=Profile%20views&color=0e75b6&style=flat" alt="patmesh" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="cemter"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **Networking**
 
@@ -17,8 +17,8 @@
 
 - ⚡ Fun fact **I think Quiet coders code with precision.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/patmesh-s-9130aa244" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="patmesh-s-9130aa244" height="30" width="40" /></a>
 <a href="https://instagram.com/patmesh__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="patmesh__" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/patmeshpatmesh21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="patmeshpatmesh21" height="30" width="40" /></a>
