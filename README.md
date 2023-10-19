@@ -29,12 +29,6 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <div align="center">
-  <style>
-    .icon-container {
-      display: inline-block;
-      margin: 0 10px; 
-    }
-  </style>
   <a href="https://developer.android.com" target="_blank" rel="noreferrer" class="icon-container">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
   </a>
