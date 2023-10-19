@@ -7,15 +7,16 @@
 
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Networking**
+<p align="center">🌱 I’m currently learning <b>Networking</b></p>
 
-- 👨‍💻 All of my projects are available at [https://patmesh.netlify.app/](https://patmesh.netlify.app/)
+<p align="center">👨‍💻 All of my projects are available at <a href="https://patmesh.netlify.app/" target="blank">https://patmesh.netlify.app/</a></p>
 
-- 💬 Ask me about **react**
+<p align="center">💬 Ask me about <b>React</b></p>
 
-- 📫 How to reach me **patmeshpatmesh2003@gmail.com**
+<p align="center">📫 How to reach me <b>patmeshpatmesh2003@gmail.com</b></p>
 
-- ⚡ Fun fact **I think Quiet coders code with precision.**
+<p align="center">⚡ Fun fact <b>I think Quiet coders code with precision.</b></p>
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
