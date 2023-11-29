@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Patmesh</h1>
-<h3 align="center">A passionate Full Stack Web developer.</h3>
+<h3 align="center">A passionate Full Stack developer.</h3>
 <img src="https://media.licdn.com/dms/image/D5616AQEho9qpkivPYw/profile-displaybackgroundimage-shrink_350_1400/0/1693790345644?e=1701907200&v=beta&t=D__9MQt_THAeV5ThZ7v7aKdUUdKjc8p00J_4pzgVvNI" alt="Background Image">
 
 
