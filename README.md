@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Patmesh</h1>
 <h3 align="center">A passionate Full Stack developer.</h3>
-<img src="https://media.licdn.com/dms/image/D5616AQEho9qpkivPYw/profile-displaybackgroundimage-shrink_350_1400/0/1693790345644?e=1701907200&v=beta&t=D__9MQt_THAeV5ThZ7v7aKdUUdKjc8p00J_4pzgVvNI" alt="Background Image">
+<img src="https://www.canva.com/design/DAFwfyUQXO8/view" alt="Background Image">
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=patmesh&label=Profile%20views&color=0e75b6&style=flat" alt="patmesh" /> </p>
