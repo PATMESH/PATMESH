@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Patmesh</h1>
 <h3 align="center">A passionate Full Stack developer.</h3>
-![Copy of Black Technology LinkedIn Banner](https://github.com/PATMESH/PATMESH/assets/101879714/a8eb5586-f944-48dd-b47f-4ef74126de6c)
-
-
+<img src="https://github.com/PATMESH/PATMESH/assets/101879714/a8eb5586-f944-48dd-b47f-4ef74126de6c" >
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=patmesh&label=Profile%20views&color=0e75b6&style=flat" alt="patmesh" /> </p>
