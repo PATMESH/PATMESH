@@ -1,12 +1,7 @@
 <h1 align="center">Hi 👋, I'm Patmesh</h1>
 <h3 align="center">A passionate Full Stack developer.</h3>
-<div style="position: relative; width: 100%; height: 0; padding-top: 25.0000%;
- padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
- border-radius: 8px; will-change: transform;">
-  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
-    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFwfyUQXO8&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
-  </iframe>
-</div>
+<img src="https://media.licdn.com/dms/image/D5616AQEho9qpkivPYw/profile-displaybackgroundimage-shrink_350_1400/0/1693790345644?e=1701907200&v=beta&t=D__9MQt_THAeV5ThZ7v7aKdUUdKjc8p00J_4pzgVvNI" alt="Background Image">
+
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=patmesh&label=Profile%20views&color=0e75b6&style=flat" alt="patmesh" /> </p>
