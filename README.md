@@ -11,8 +11,6 @@
 
 <p align="center">👨‍💻 All of my projects are available at <a href="https://patmesh.netlify.app/" target="blank">https://patmesh.netlify.app/</a></p>
 
-<p align="center">💬 Ask me about <b>React</b></p>
-
 <p align="center">📫 How to reach me <b>patmeshpatmesh2003@gmail.com</b></p>
 
 <p align="center">⚡ Fun fact <b>I think Quiet coders code with precision.</b></p>
