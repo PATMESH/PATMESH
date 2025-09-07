@@ -5,12 +5,6 @@
 
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<p align="center">🌱 I’m currently learning <b>Networking</b></p>
-
-<p align="center">👨‍💻 All of my projects are available at <a href="https://patmesh.netlify.app/" target="blank">https://patmesh.netlify.app/</a></p>
-
-<p align="center">📫 How to reach me <b>patmeshpatmesh2003@gmail.com</b></p>
-
 <p align="center">⚡ Fun fact <b>I think Quiet coders code with precision.</b></p>
 
 
@@ -18,9 +12,6 @@
 <p align="center">
 <a href="https://linkedin.com/in/patmesh-s-9130aa244" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="patmesh-s-9130aa244" height="30" width="40" /></a>
 <a href="https://instagram.com/patmesh__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="patmesh__" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/patmeshpatmesh21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="patmeshpatmesh21" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/patmesh_senthilkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="patmesh_senthilkumar" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/patmeshpatz56d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="patmeshpatz56d" height="30" width="40" /></a>
 </p>
 
 
@@ -43,7 +34,6 @@
   <a href="https://www.mysql.com" target="blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
   <a href="https://www.mongodb.com" target="blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
   <a href="https://nodejs.org" target="blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>&nbsp;
-  <a href="https://www.python.org" target="blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
   <a href="https://reactjs.org/" target="blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
   <a href="https://spring.io/" target="blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a>
 </p>
